@@ -10,5 +10,5 @@ In order to verify if the installation was completed successfully, import spectr
 import spectra_analyze
 ```
 
-[!NOTE]  
-This project is still under development.
+> [!NOTE]  
+> This project is still under development.
