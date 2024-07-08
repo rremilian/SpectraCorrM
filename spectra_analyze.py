@@ -8,7 +8,7 @@ from rich.console import Console
 from matplotlib import pyplot as plt
 
 """
-Spectra Analyze - A Python module for the analysis of experimental and theoretical IR and Raman spectra 
+SpectraCorrM- A Python module for the analysis of experimental and theoretical IR and Raman spectra 
 @github: https://github.com/rremilian
 """
 
