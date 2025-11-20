@@ -6,4 +6,4 @@ import spectracorrm
 ```
 
 > [!NOTE]  
-> This project is still under development.
+> This project is no longer actively maintained
